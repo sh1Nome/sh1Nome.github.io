@@ -1,0 +1,54 @@
+title: sh1Nome
+subtitle: This is a list of websites about me.
+categories:
+  - name: SNS
+    links:
+      - label: X
+        url: https://x.com/sh1_No_me
+      - label: YouTube
+        url: https://www.youtube.com/@sh1Nome
+
+  - name: DEV
+    links:
+      - label: GitHub
+        url: https://github.com/sh1Nome
+
+  - name: BOOK
+    links:
+      - label: Qiita
+        url: https://qiita.com/sh1Nome
+      - label: note
+        url: https://note.com/shinome_1024/
+
+  - name: NVIM-PLUGIN
+    links:
+      - label: floatcli.nvim
+        url: https://github.com/sh1Nome/floatcli.nvim
+        description: Run arbitrary CLI tools in a floating window.
+      - label: floatmemo.nvim
+        url: https://github.com/sh1Nome/floatmemo.nvim
+        description: Keep your memo in a floating window, in one place across all projects.
+      - label: md-table-align.nvim
+        url: https://github.com/sh1Nome/md-table-align.nvim
+        description: Align Markdown tables.
+      - label: mini-pick-preview.nvim
+        url: https://github.com/sh1Nome/mini-pick-preview.nvim
+        description: Standalone preview window for mini.pick.
+      - label: yank-git-remote-url.nvim
+        url: https://github.com/sh1Nome/yank-git-remote-url.nvim
+        description: Copy the remote repository URL of the current file to the clipboard.
+
+  - name: RELEASE
+    links:
+      - label: extract-streams
+        url: https://github.com/sh1Nome/extract-streams
+        description: Extract audio from video using ffmpeg.
+
+  - name: ETC
+    links:
+      - label: dotfiles
+        url: https://github.com/sh1Nome/dotfiles
+        description: Personal dotfiles.
+      - label: personal-knowledge-hub
+        url: https://github.com/sh1Nome/personal-knowledge-hub
+        description: Personal knowledge base.

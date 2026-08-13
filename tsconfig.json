@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "nodenext",
+    "strict": true,
+    "types": ["node"],
+    "rootDir": "scripts",
+    "outDir": "out"
+  },
+  "include": ["scripts"]
+}
