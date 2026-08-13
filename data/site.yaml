@@ -43,6 +43,9 @@ categories:
       - label: extract-streams
         url: https://github.com/sh1Nome/extract-streams
         description: Extract audio from video using ffmpeg.
+      - label: gh-ruleset-sync
+        url: https://github.com/sh1Nome/gh-ruleset-sync
+        description: Batch-apply GitHub rulesets across all your repositories using the gh CLI.
 
   - name: ETC
     links:
@@ -51,4 +54,7 @@ categories:
         description: Personal dotfiles.
       - label: personal-knowledge-hub
         url: https://github.com/sh1Nome/personal-knowledge-hub
-        description: Personal knowledge base.
+        description: Personal knowledge base. Being migrated to my-zk.
+      - label: my-zk
+        url: https://github.com/sh1Nome/my-zk
+        description: Personal notes managed with zk. Migrated from personal-knowledge-hub.
