@@ -19,6 +19,8 @@ categories:
         url: https://qiita.com/sh1Nome
       - label: note
         url: https://note.com/shinome_1024/
+      - label: Zenn
+        url: https://zenn.dev/sh1nome
 
   - name: NVIM-PLUGIN
     links:
